@@ -17,7 +17,7 @@ The tests cover:
 
 ### Installation
 1. Clone the repository:
-   git clone <YOUR_GITHUB_REPO_LINK>
+   git clone [<YOUR_GITHUB_REPO_LINK>](https://github.com/purnalakshitha99/playwright-_test_automation.git)
 
 2. Navigate to the project folder:
    cd playwright
